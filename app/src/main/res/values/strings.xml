@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HsnBank</string>
+    <string name="hesaplarim">Accounts</string>
+    <string name="kartlarim">Cards</string>
+    <string name="yatirimlarim">Investments</string>
+    <string name="hasapTuru">Checking Account</string>
+    <string name="guncelVarlik">Asset :</string>
+    <string name="guncelVarlikPara">1.864.200 TL</string>
+    <string name="hesapHareketleri">Account Transactions</string>
+    <string name="anaSayfa">Home Page</string>
+    <string name="islemler">Transactions</string>
+    <string name="varliklar">Assets</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#3d4347</color>
+
+    <color name="hsnMavi">#0b7cc2</color>
+    <color name="hsnBeyaz">#cbd2d4</color>
+    <color name="hsnGri">#FFFFFF</color>
+    <color name="hsnSiyah">#000000</color>
+    <color name="hsnTuruncu">#ff7f00</color>
+
+
+</resources>

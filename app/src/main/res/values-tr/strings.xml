@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HsnBank</string>
+    <string name="hesaplarim">Hesaplarım</string>
+    <string name="kartlarim">Karlarım</string>
+    <string name="yatirimlarim">Yatırımlarım</string>
+    <string name="hasapTuru">Vadesiz Hesap :</string>
+    <string name="guncelVarlik">Varlık :</string>
+    <string name="guncelVarlikPara">1.864.200 TL</string>
+    <string name="hesapHareketleri">Hesap Hareketleri</string>
+    <string name="anaSayfa">Ana Sayfa</string>
+    <string name="islemler">İşlemler</string>
+    <string name="varliklar">Varlıklar</string>
+</resources>
